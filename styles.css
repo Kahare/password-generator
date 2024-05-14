@@ -1,0 +1,12 @@
+body {
+    font-family:'Courier New', Courier, monospace;
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  #password-output {
+    margin-top: 20px;
+    font-size: 24px;
+    font-weight: bold;
+  }
